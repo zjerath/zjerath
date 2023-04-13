@@ -18,6 +18,6 @@
   </a>
 </div>
 
-##Languages
+##Languages##
 
-##Technologies
+##Technologies##
