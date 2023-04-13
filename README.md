@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/zain-jerath-026b42214/">
-    <img alt="Zain's Linkedin" padding-left="30px" width="50px" src="https://raw.githubusercontent.com/zjerath/zjerath/main/images/linkedin.svg" />
+    <img alt="Zain's Linkedin" padding-right="30px" width="50px" src="https://raw.githubusercontent.com/zjerath/zjerath/main/images/linkedin.svg" />
   </a>
   <a href="https://www.instagram.com/zain.jerath/">
     <img alt="Zain's Instagram" width="50px" src="https://raw.githubusercontent.com/zjerath/zjerath/main/images/instagram.svg" />
