@@ -4,7 +4,7 @@
 - 👨‍💻 Currently studying CS at **[Northwestern University](https://www.northwestern.edu/)**
 - 🌱 Passionate about **Effective Altruism, Blockchain Development, Machine Learning**
 - 📫 How to reach me: **zainjerath@gmail.com**
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love to travel
 
 <div align="center">
   <a href="https://www.linkedin.com/in/zain-jerath-026b42214/">
