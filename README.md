@@ -17,3 +17,7 @@
     <img alt="My Twitter" title="Twitter" width="50px" src="https://raw.githubusercontent.com/zjerath/zjerath/main/images/twitter.svg" />
   </a>
 </div>
+
+##Languages
+
+##Technologies
