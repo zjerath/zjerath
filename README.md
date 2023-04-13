@@ -9,10 +9,10 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/zain-jerath-026b42214/">
     <img alt="My LinkedIn" title="LinkedIn" width="50px" src="https://raw.githubusercontent.com/zjerath/zjerath/main/images/linkedin.svg" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/zain.jerath/">
     <img alt="My Instagram" title="Instagram" width="50px" src="https://raw.githubusercontent.com/zjerath/zjerath/main/images/instagram.svg" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/Zainjerath">
     <img alt="My Twitter" title="Twitter" width="50px" src="https://raw.githubusercontent.com/zjerath/zjerath/main/images/twitter.svg" />
   </a>
