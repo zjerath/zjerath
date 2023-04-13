@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm <a href="https://zjerath.github.io">Zain</a></h1>
 <h3 align="center">A software developer from Washington, DC</h3>
-
-- 👨‍💻 Currently studying CS at **[Northwestern University](https://www.northwestern.edu/)**
-- 🌱 Passionate about **Effective Altruism, Blockchain Development, Machine Learning**
-- 📫 How to reach me: **zainjerath@gmail.com**
-- ⚡ Fun fact: I love to travel
+<p align="center">
+  - 👨‍💻 Currently studying CS at **[Northwestern University](https://www.northwestern.edu/)**
+  - 🌱 Passionate about **Effective Altruism, Blockchain Development, Machine Learning**
+  - 📫 How to reach me: **zainjerath@gmail.com**
+  - ⚡ Fun fact: I love to travel
+</p>
 
 ### Languages
 ### Technologies
