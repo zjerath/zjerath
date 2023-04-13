@@ -6,6 +6,10 @@
 - 📫 How to reach me: **zainjerath@gmail.com**
 - ⚡ Fun fact: I love to travel
 
+## Languages**
+
+## Technologies
+
 <div align="center">
   <a href="https://www.linkedin.com/in/zain-jerath-026b42214/">
     <img alt="My LinkedIn" title="LinkedIn" width="50px" src="https://raw.githubusercontent.com/zjerath/zjerath/main/images/linkedin.svg" />
@@ -17,7 +21,3 @@
     <img alt="My Twitter" title="Twitter" width="50px" src="https://raw.githubusercontent.com/zjerath/zjerath/main/images/twitter.svg" />
   </a>
 </div>
-
-## Languages
-
-## Technologies
