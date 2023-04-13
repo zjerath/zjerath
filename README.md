@@ -6,7 +6,7 @@
 - 📫 How to reach me: **zainjerath@gmail.com**
 - ⚡ Fun fact: I love to travel
 
-## Languages**
+### Languages
 
 ## Technologies
 
