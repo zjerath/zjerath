@@ -8,15 +8,12 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/zain-jerath-026b42214/">
-    <img alt="My Linkedin" width="50px" src="https://raw.githubusercontent.com/zjerath/zjerath/main/images/linkedin.svg" />
+    <img alt="My LinkedIn" title="LinkedIn" width="50px" src="https://raw.githubusercontent.com/zjerath/zjerath/main/images/linkedin.svg" />
   </a>
   <a href="https://www.instagram.com/zain.jerath/">
-    <img alt="My Instagram" width="50px" src="https://raw.githubusercontent.com/zjerath/zjerath/main/images/instagram.svg" />
+    <img alt="My Instagram" title="Instagram" width="50px" src="https://raw.githubusercontent.com/zjerath/zjerath/main/images/instagram.svg" />
   </a>
   <a href="https://twitter.com/Zainjerath">
-    <img alt="My Twitter" width="50px" src="https://raw.githubusercontent.com/zjerath/zjerath/main/images/twitter.svg" />
-  </a>
-  <a href="https://zjerath.github.io">
-    <img alt="My Website" width="50px" src="https://raw.githubusercontent.com/zjerath/zjerath/main/images/Zain.png" />
+    <img alt="My Twitter" title="Twitter" margin-left="30px" width="50px" src="https://raw.githubusercontent.com/zjerath/zjerath/main/images/twitter.svg" />
   </a>
 </div>
