@@ -8,7 +8,7 @@
 
 ### Languages
 
-## Technologies
+### Technologies
 
 <div align="center">
   <a href="https://www.linkedin.com/in/zain-jerath-026b42214/">
