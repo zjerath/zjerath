@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zain</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://zjerath.github.io">Zain</a></h1>
 <h3 align="center">A software developer from Washington, DC</h3>
 
 - 👨‍💻 Currently studying CS at **[Northwestern University](https://www.northwestern.edu/)**
