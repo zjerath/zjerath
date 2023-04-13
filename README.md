@@ -8,10 +8,10 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/zain-jerath-026b42214/">
-    <img alt="Zain's Linkedin" width="50px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    <img alt="Zain's Linkedin" width="50px" src="https://raw.githubusercontent.com/zjerath/zjerath/main/images/linkedin.svg" />
   </a>
   <a href="https://www.instagram.com/zain.jerath/">
-    <img alt="Zain's Instagram" width="50px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+    <img alt="Zain's Instagram" width="50px" src="https://raw.githubusercontent.com/zjerath/zjerath/main/images/instagram.png" />
   </a>
   <a href="https://twitter.com/Zainjerath">
     <img alt="Zain's Twitter" width="50px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
