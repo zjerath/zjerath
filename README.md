@@ -14,6 +14,6 @@
     <img alt="Zain's Instagram" width="50px" src="https://raw.githubusercontent.com/zjerath/zjerath/main/images/instagram.svg" />
   </a>
   <a href="https://twitter.com/Zainjerath">
-    <img alt="Zain's Twitter" width="50px" src="https://raw.githubusercontent.com/zjerath/zjerath/main/images/twitter.svg" />
+    <img alt="Zain's Twitter" width="50px" src="https://raw.githubusercontent.com/zjerath/main/images/twitter.svg" />
   </a>
 </div>
