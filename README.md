@@ -16,4 +16,7 @@
   <a href="https://twitter.com/Zainjerath">
     <img alt="Zain's Twitter" width="50px" src="https://raw.githubusercontent.com/zjerath/zjerath/main/images/twitter.svg" />
   </a>
+  <a href="https://zjerath.github.io">
+    <img alt="Zain's Website" width="50px" src="https://raw.githubusercontent.com/zjerath/zjerath/main/images/Zain.png" />
+  </a>
 </div>
