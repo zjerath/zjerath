@@ -2,7 +2,7 @@
 <h3 align="center">A software developer from Washington, DC</h3>
 
 - 👨‍💻 Currently studying CS at **[Northwestern University](https://www.northwestern.edu/)**
-- 🌱 Passionate about **Effective Altruism, Blockchain Development, Deep/Reinforcement Learning, Probabilistic Modeling, Computer Vision**
+- 🌱 Passionate about **Effective Altruism, Deep/Reinforcement Learning, Probabilistic Modeling, Computer Vision**
 - 📫 How to reach me: **zainjerath@gmail.com**
 - ⚡ Conducting ML and NLP research on AI for Healthcare and Education
 
