@@ -2,9 +2,9 @@
 <h3 align="center">A software developer from Washington, DC</h3>
 
 - 👨‍💻 Currently studying CS at **[Northwestern University](https://www.northwestern.edu/)**
-- 🌱 Passionate about **Effective Altruism, Deep/Reinforcement Learning, Probabilistic Modeling, Computer Vision**
+- 🌱 Passionate about **Effective Altruism, Machine Learning, and Natural Language Processing**
 - 📫 How to reach me: **zainjerath@gmail.com**
-- ⚡ Conducting ML and NLP research on AI for Healthcare and Education
+- ⚡ Conducting research on AI for Healthcare and Education
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
